@@ -47,3 +47,78 @@
 .clickable:hover {
 	color: #6C7086 !important;
 }
+
+.segment {
+    border: 2px solid #181825 !important;
+		padding: 20px;
+		border-radius: 25px;
+		background-color: #181825 !important;
+}
+
+.link_general {
+	color: #89B4FA;
+	text-decoration: underline;
+	text-decoration-color: #89B4FA;
+}
+
+.link_general:hover {
+	color: #B4BEFE;
+	text-decoration-color: #B4BEFE;
+}
+
+.link_email {
+	color: #F9E2AF;
+	text-decoration: underline;
+	text-decoration-color: #F9E2AF;
+}
+
+.link_email:hover {
+	color: #FAB387;
+	text-decoration-color: #FAB387;
+}
+
+.link_github {
+	color: #A6E3A1;
+	text-decoration: underline;
+	text-decoration-color: #A6E3A1;
+}
+
+.link_github:hover {
+	color: #94E2D5;
+	text-decoration-color: #94E2D5;
+}
+
+.link_linkedin {
+	color: #0077B5;
+	text-decoration: underline;
+	text-decoration-color: #0077B5;
+}
+
+.link_linkedin:hover {
+	color: #8CAAEE;
+	text-decoration-color: #8CAAEE;
+}
+
+.title {
+	text-align: left;
+	color: #A6E3A1;
+}
+
+.entries {
+	text-align: left;
+	color: #89B4FA !important;
+}
+
+.bar {
+	color: #F9E2AF;
+}
+
+.entry_text {
+	text-align: left;
+	color: #CDD6F4;
+}
+
+.years {
+	text-align: right;
+	color: #EF9F76;
+}
